@@ -40,28 +40,3 @@ Connect with me on LinkedIn: [linkedin.com/in/dhavalprajapati195](linkedin.com/i
 
 **About Me:**
 Skilled IT professional with a passion for cybersecurity. I have a strong foundation in IT Support and am currently expanding my knowledge with a postgraduate diploma in cybersecurity. My goal is to contribute to the field of information and data security while continuously learning and adapting to new challenges.
-
-**Experience:**
-- Desktop Support Engineer at Tech Mahindra
-- IT Intern at XYZ Company (Include details if applicable)
-
-**Education:**
-- Cybersecurity Postgraduate Diploma from Sault College of Applied Arts and Technology
-- Bachelor of Engineering in Information Technology from Gujarat Technological University
-
-**Skills:**
-- Operating Systems
-- Python
-- Security Audits
-- System Administration
-- Computer Networking
-- Troubleshooting
-- CRM
-- Customer Service
-- Inventory Management
-- IP
-- Microsoft Access
-- Microsoft Excel
-
-**Contact Info:**
-- Email: Dhavalprajapati4599@gmail.com
