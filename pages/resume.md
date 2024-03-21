@@ -1,5 +1,5 @@
 **Dhaval Prajapati**
-Email: Dhavalprajapati4599@gmail.com | Phone: (905)-781-9152 | LinkedIn: linkedin.com/in/dhavalprajapati195
+Email: Dhavalprajapati4599@gmail.com | LinkedIn: linkedin.com/in/dhavalprajapati195
 Location: Toronto, Ontario
 
 **Professional Summary:**
@@ -65,6 +65,3 @@ Skilled IT professional with a passion for cybersecurity. I have a strong founda
 
 **Contact Info:**
 - Email: Dhavalprajapati4599@gmail.com
-- Phone: (905)-781-9152
-
-Feel free to customize this resume and LinkedIn profile as needed to fit Dhaval Prajapati's unique qualifications and preferences.
