@@ -56,7 +56,7 @@ Skilled information technologies professional with a background in IT Support, c
 
 # Certifications
 
-## [(ISC)2 Certified in Cybersecurity - Dhaval Prajapati](assets/user/isc2cc.png =70*70)
+## [(ISC)2 Certified in Cybersecurity - Dhaval Prajapati](assets/user/isc2cc.png =70x70)
 _**(ISC)2 Certified in Cybersecurity**_
 
 _Entry-Level Cybersecurity Certification_
@@ -68,7 +68,7 @@ Proves you have the foundational knowledge, skills and abilities for an entry- o
 4. Network Security
 5. Security Operations
 
-## [Google IT Support Professional Certificate](assets/user/itsupport.png =70*70)
+## [Google IT Support Professional Certificate](assets/user/itsupport.png =70x70)
 **_Google IT Support Certificate_**
 
 This certificate is equivalent to **CompTIA A+** certificate.
