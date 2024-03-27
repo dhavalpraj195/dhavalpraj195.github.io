@@ -3,9 +3,6 @@
 
 ***
 
-|&nbsp;&nbsp;&nbsp; [Home 🏠](#profile)  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [About ℹ️](#professional-summary) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Technical Skills  💻](#technical-skills) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Certifications 📜](#certifications)  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  [Work Experience 💼](#work-experience)  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  [Education 🎓](#education)  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  [Contact 📞📧](#contact)  &nbsp;&nbsp;&nbsp;|
-
-
 |  [Home 🏠](#profile)  |  [About ℹ️](#professional-summary)  |  [Technical Skills  💻](#technical-skills)  |  [Certifications 📜](#certifications)  |  [Work Experience 💼](#work-experience)  |  [Education 🎓](#education)  |  [Contact 📞📧](#contact)  |
 
 
