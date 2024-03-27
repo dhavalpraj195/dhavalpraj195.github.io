@@ -7,10 +7,10 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/dhavalprajapati195/](https://www.linkedin.com/in/dhavalprajapati195/)
 
-## Check out my Resume: [Resume page](?page=resume-page)
-## Check out my College grades: [Grades page](?page=grades-page)
+### Check out my Resume: [Resume page](?page=resume-page)
+### Check out my College grades: [Grades page](?page=grades-page)
 
-## Table of Contents
+### Table of Contents
 - [Professional Summary](#professional-summary)
 - [Technical Skills](#technical-skills)
 - [Certifications](#certifications)
