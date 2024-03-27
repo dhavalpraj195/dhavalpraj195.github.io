@@ -22,11 +22,11 @@
 
 [![Dhaval's GitHub stats](https://github-readme-stats.vercel.app/api?username=imstrange195&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentages&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-**![Gmail logo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whit) : <dhavalprajapati4599@gmail.com>**
+**![Gmail logo](assets/user/gmail.svg) : <dhavalprajapati4599@gmail.com>**
 
-**GitHub ![GitHub logo](https://i.stack.imgur.com/tskMh.png) : [Dhaval@GitHub](https://github.com/imstrange195)**
+**GitHub ![GitHub logo](assets/user/github.png) : [Dhaval@GitHub](https://github.com/imstrange195)**
 
-**LinkedIn ![LinkedIn Logo](https://i.stack.imgur.com/gVE0j.png) : [Dhaval Prajapati LinkedIn Profile](https://www.linkedin.com/in/dhavalprajapati195/)**
+**LinkedIn ![LinkedIn Logo](assets/user/linkedin.png) : [Dhaval Prajapati LinkedIn Profile](https://www.linkedin.com/in/dhavalprajapati195/)**
 
 
 ***
@@ -56,7 +56,7 @@ Skilled information technologies professional with a background in IT Support, c
 
 # Certifications
 
-## [(ISC)2 Certified in Cybersecurity - Dhaval Prajapati](https://www.credly.com/badges/b0958515-72a0-4ca7-80dc-022be1a011bb/linked_in_profile) ![(ISC)2 CC Badge](https://images.credly.com/size/70x70/images/2030e43f-8003-4d4b-9630-847add403c87/image.png)
+## [(ISC)2 Certified in Cybersecurity - Dhaval Prajapati](assets/user/isc2cc.png =70*70)
 _**(ISC)2 Certified in Cybersecurity**_
 
 _Entry-Level Cybersecurity Certification_
@@ -68,7 +68,7 @@ Proves you have the foundational knowledge, skills and abilities for an entry- o
 4. Network Security
 5. Security Operations
 
-## [Google IT Support Professional Certificate](https://www.credly.com/badges/40f2f628-4446-4526-a51d-285ac23f7ae2/linked_in_profile) ![Google IT Support Certificate Badge](https://images.credly.com/size/70x70/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png)
+## [Google IT Support Professional Certificate](assets/user/itsupport.png =70*70)
 **_Google IT Support Certificate_**
 
 This certificate is equivalent to **CompTIA A+** certificate.
