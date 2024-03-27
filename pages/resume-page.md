@@ -1,4 +1,5 @@
 **Dhaval Prajapati**
+
 Email: Dhavalprajapati4599@gmail.com | LinkedIn: linkedin.com/in/dhavalprajapati195
 Location: Toronto, Ontario
 
