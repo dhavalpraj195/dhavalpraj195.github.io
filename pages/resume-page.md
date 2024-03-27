@@ -39,7 +39,7 @@ Results-driven IT Support professional with extensive experience in providing Le
 **LinkedIn Profile:**
 Connect with me on LinkedIn: [linkedin.com/in/dhavalprajapati195](linkedin.com/in/dhavalprajapati195)
 
-### Go back to [Home page](.)
-
 **About Me:**
 Skilled IT professional with a passion for cybersecurity. I have a strong foundation in IT Support and am currently expanding my knowledge with a postgraduate diploma in cybersecurity. My goal is to contribute to the field of information and data security while continuously learning and adapting to new challenges.
+
+### Go back to [Home page](.)
