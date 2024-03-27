@@ -22,7 +22,7 @@
 
 [![Dhaval's GitHub stats](https://github-readme-stats.vercel.app/api?username=imstrange195&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentages&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-**![Gmail logo](assets/user/gmail.svg) : <dhavalprajapati4599@gmail.com>**
+**Gmail ![Gmail logo](assets/user/gmail.svg) : <dhavalprajapati4599@gmail.com>**
 
 **GitHub ![GitHub logo](assets/user/github.png) : [Dhaval@GitHub](https://github.com/imstrange195)**
 
@@ -56,7 +56,7 @@ Skilled information technologies professional with a background in IT Support, c
 
 # Certifications
 
-## [(ISC)2 Certified in Cybersecurity - Dhaval Prajapati](assets/user/isc2cc.png =70x70)
+## [(ISC)2 Certified in Cybersecurity - Dhaval Prajapati] ![ISC2CC](assets/user/isc2cc.png=70x70)
 _**(ISC)2 Certified in Cybersecurity**_
 
 _Entry-Level Cybersecurity Certification_
@@ -68,7 +68,7 @@ Proves you have the foundational knowledge, skills and abilities for an entry- o
 4. Network Security
 5. Security Operations
 
-## [Google IT Support Professional Certificate](assets/user/itsupport.png =70x70)
+## [Google IT Support Professional Certificate] ![ITSupport](assets/user/itsupport.png = 70x70)
 **_Google IT Support Certificate_**
 
 This certificate is equivalent to **CompTIA A+** certificate.
