@@ -22,7 +22,7 @@
 
 [![Dhaval's GitHub stats](https://github-readme-stats.vercel.app/api?username=imstrange195&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentages&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-**Gmail ![Gmail logo](assets/user/gmail.svg) : <dhavalprajapati4599@gmail.com>**
+**Gmail ![Gmail logo](assets/user/gmail.svg)** : **dhavalprajapati4599@gmail.com**
 
 **GitHub ![GitHub logo](assets/user/github.png) : [Dhaval@GitHub](https://github.com/imstrange195)**
 
