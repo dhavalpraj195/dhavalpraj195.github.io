@@ -29,24 +29,74 @@ Skilled information technologies professional with a background in IT Support, c
 ***
 # Technical Skills
   
-- 💼 Risk management
-- 🛡️ Risk mitigation
-- 🔍 Analyze vulnerabilities
-- 💻🔧 Manage exploits
-- 🚨 Incident response
-- 📊🔒 SIEM
-- 🛡️🔍 Penetration testing
-- 🔍📝 Security audits
-- 🚪🔍 Port-scanning
-- 📱🔒 Device security
-- 💻🖥️ Windows Client
-- 🖥️🔧 Windows Server
-- 🖥️📁 Microsoft Active Directory
-- 🐧 Linux
+- 💼 Risk management   🛡️ Risk mitigation
+- 🔍 Analyze vulnerabilities  💻🔧 Manage exploits
+- 🚨 Incident response  📊🔒 SIEM
+- 🛡️🔍 Penetration testing  🔍📝 Security audits
+- 🚪🔍 Port-scanning  📱🔒 Device security
+- 💻🖥️ Windows Client  🖥️🔧 Windows Server
+- 🖥️📁 Microsoft Active Directory  🐧 Linux
 ***
 # Certifications
 
-**[1. (ISC)2 Certified in Cybersecurity - Dhaval Prajapati](https://www.credly.com/badges/b0958515-72a0-4ca7-80dc-022be1a011bb/linked_in_profile) ![ISC2CC](assets/user/isc2cc.png)**
+**[1. CompTIA Security+ - Dhaval Prajapati](https://www.credly.com/badges/4f091209-4b9e-4e92-a50d-871351c40195) ![CompTIA-Security+](assets/user/securityplus.png)**
+
+_Entry-Level Cybersecurity Certification_
+CompTIA Security+ is the premier global certification that establishes the essential skills required for core security functions and a career in IT security. 
+It showcases professionals' capabilities in securing networks, applications, and devices, ensuring data integrity, confidentiality, and availability. CompTIA Security+ focuses on practical, hands-on skills to tackle real-world challenges. 
+* **Domains Covered by CompTIA Security+ Exam:**
+
+**1. General security concepts**
+| Security controls |
+Fundamental concepts |
+Change management |
+Cryptographic solutions |
+**2. Threats, vulnerabilities, and mitigations**
+| Threat actors and motivations |
+Threat vectors and attack surfaces |
+Malicious activity |
+Mitigation techniques |
+**3. Security architecture**
+| Architecture models |
+Enterprise infrastructure |
+Data protection |
+Resilience and recovery |
+**4. Security operations** 
+| Computing resources |
+Asset management |
+Vulnerability managemen |
+Alerting and monitoring |
+Enterprise security |
+Identity and access management |
+Automation and orchestration |
+Incident response |
+Data sources |
+**5. Security program management and oversight**
+| Security governance | 
+Risk management |
+Third-party risk |
+Security compliance |
+Audits and assessments |
+Security awareness |
+
+* **Skills**
+| Access Control | Cryptography | Cyber Forensics | Data Security | Disaster Recovery Planning |
+| Firewall Configuration | Information Security Management | Malware Identification | Mobile Device Security |
+| Network Security | Security Awareness | Security Configuration |Security Management | Security Policies |
+| Threat Detection | Threat Management |
+
+**[2. INE- eJPT Junior Penetration Tester - Dhaval Prajapati](https://certs.ine.com/8d4d5886-b17f-4da7-aa74-bbdb1b8a3612#acc.EPGxVa7e) ![INE-eJPT](assets/user/ejptlogo.png)**
+
+The Junior Penetration Tester (eJPT) is a thoughtfully crafted certification designed to test you on every phase of the penetration life cycle from assessment methodologies, to host and network auditing, host and network penetration testing, and web application penetration testing. 
+This browser-based, hands-on, exam mirrors real world junior penetration tasks using a methodological approach. Not only does our exam environment feature modern infrastructure, operating systems, and current versions of software, but it also uses innovative technology to make each user’s testing experience unique.
+
+* **Skills / Knowledge**
+1. Assessment Methodologies
+2. Web Application Penetration Testing
+3. Host & Networking Penetration Testing
+4. Host & Networking Auditing
+
+**[3. (ISC)2 Certified in Cybersecurity - Dhaval Prajapati](https://www.credly.com/badges/b0958515-72a0-4ca7-80dc-022be1a011bb) ![ISC2CC](assets/user/isc2cc.png)**
 
 _Entry-Level Cybersecurity Certification_
 Proves you have the foundational knowledge, skills and abilities for an entry- or junior-level cybersecurity role.
@@ -57,7 +107,7 @@ Proves you have the foundational knowledge, skills and abilities for an entry- o
 4. Network Security
 5. Security Operations
 
-**[2. Google IT Support Professional Certificate](https://www.credly.com/badges/40f2f628-4446-4526-a51d-285ac23f7ae2/linked_in_profile) ![ITSupport](assets/user/itsupport.png)**
+**[4. Google IT Support Professional Certificate](https://www.credly.com/badges/40f2f628-4446-4526-a51d-285ac23f7ae2) ![ITSupport](assets/user/itsupport.png)**
 
 This certificate is equivalent to **CompTIA A+** certificate.
 Goals covered by the course:
