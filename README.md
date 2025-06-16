@@ -13,13 +13,13 @@
 **Check out Some Photos: [Photos](?page=photos-page)** ![openlink](assets/user/openlink.svg)
 ***
 # Professional Summary
-Skilled information technologies professional with a background in IT Support, currently pursuing a postgraduate diploma in cybersecurity and looking for opportunities to expand and enhance experience in information and data security.
+Entry‑level IT & cybersecurity professional with a Postgraduate Diploma in Cybersecurity (4.0 GPA) and a BE in Information Technology. Certified in CompTIA Security+, eJPT, (ISC)² CC, and Google IT Support. I combine solid desktop‑support experience and strong customer‑service skills with hands‑on security work—building and hardening environments, hunting threats, and responding to simulated incidents.
 ***
 # Profile
 
 **DHAVAL PRAJAPATI**
 
-[![Dhaval's GitHub stats](https://github-readme-stats.vercel.app/api?username=imstrange195&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentages&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Dhaval's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhavalpraj195&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentages&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 **👨‍💻 All of my projects are available at  ![GitHub logo](assets/user/github.png)  [Dhaval@GitHub](https://github.com/imstrange195)**
 
@@ -47,37 +47,19 @@ It showcases professionals' capabilities in securing networks, applications, and
 * **Domains Covered by CompTIA Security+ Exam:**
 
 **1. General security concepts**
-| Security controls |
-Fundamental concepts |
-Change management |
-Cryptographic solutions |
+| Security controls | Fundamental concepts | Change management | Cryptographic solutions |
+
 **2. Threats, vulnerabilities, and mitigations**
-| Threat actors and motivations |
-Threat vectors and attack surfaces |
-Malicious activity |
-Mitigation techniques |
+| Threat actors and motivations | Threat vectors and attack surfaces | Malicious activity | Mitigation techniques |
+
 **3. Security architecture**
-| Architecture models |
-Enterprise infrastructure |
-Data protection |
-Resilience and recovery |
+| Architecture models | Enterprise infrastructure | Data protection | Resilience and recovery |
+
 **4. Security operations** 
-| Computing resources |
-Asset management |
-Vulnerability managemen |
-Alerting and monitoring |
-Enterprise security |
-Identity and access management |
-Automation and orchestration |
-Incident response |
-Data sources |
+| Computing resources | Asset management | Vulnerability managemen | Alerting and monitoring | Enterprise security | Identity and access management | Automation and orchestration | Incident response | Data sources |
+
 **5. Security program management and oversight**
-| Security governance | 
-Risk management |
-Third-party risk |
-Security compliance |
-Audits and assessments |
-Security awareness |
+| Security governance | Risk management |Third-party risk |Security compliance | Audits and assessments | Security awareness |
 
 * **Skills**
 | Access Control | Cryptography | Cyber Forensics | Data Security | Disaster Recovery Planning |
@@ -85,7 +67,7 @@ Security awareness |
 | Network Security | Security Awareness | Security Configuration |Security Management | Security Policies |
 | Threat Detection | Threat Management |
 
-**[2. INE- eJPT Junior Penetration Tester - Dhaval Prajapati](https://certs.ine.com/8d4d5886-b17f-4da7-aa74-bbdb1b8a3612#acc.EPGxVa7e) ![INE-eJPT](assets/user/ejptlogo.png)**
+**[2. INE- eJPT Junior Penetration Tester - Dhaval Prajapati](https://certs.ine.com/8d4d5886-b17f-4da7-aa74-bbdb1b8a3612#acc.EPGxVa7e) ![INE-eJPT](assets/user/eJPT_logo.png)**
 
 The Junior Penetration Tester (eJPT) is a thoughtfully crafted certification designed to test you on every phase of the penetration life cycle from assessment methodologies, to host and network auditing, host and network penetration testing, and web application penetration testing. 
 This browser-based, hands-on, exam mirrors real world junior penetration tasks using a methodological approach. Not only does our exam environment feature modern infrastructure, operating systems, and current versions of software, but it also uses innovative technology to make each user’s testing experience unique.
