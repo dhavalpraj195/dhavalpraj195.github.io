@@ -15,23 +15,36 @@
         line-height: 1.6;
     }
     header {
+        position: relative;
         background: url('https://images.unsplash.com/photo-1550751827-4bd374c3f58b?fit=crop&w=1920&q=80') no-repeat center center/cover;
         padding: 60px 20px;
         text-align: center;
         border-bottom: 2px solid #30363d;
         color: #ffffff;
     }
+    header::before {
+        content: "";
+        position: absolute;
+        top: 0; left: 0;
+        width: 100%; height: 100%;
+        background: rgba(0, 0, 0, 0.6); /* Dark overlay */
+        z-index: 0;
+    }
+    header h1, header p {
+        position: relative;
+        z-index: 1;
+    }
     header h1 {
         margin: 0;
         font-size: 2.5em;
-        color: #58a6ff;
-        text-shadow: 1px 1px 3px rgba(0,0,0,0.8);
+        color: #ffffff;
+        text-shadow: 0 0 8px rgba(0, 0, 0, 0.9);
     }
     header p {
         margin: 8px 0 0;
         font-size: 1.2em;
         color: #f0f6fc;
-        text-shadow: 1px 1px 3px rgba(0,0,0,0.8);
+        text-shadow: 0 0 6px rgba(0, 0, 0, 0.8);
     }
     section {
         max-width: 900px;
@@ -128,10 +141,6 @@
 
     <h3><i class="fas fa-flag"></i> EC-Council CyberQ CTF</h3>
     <p>Captured 7 flags in 50 minutes despite high-latency server. Used reconnaissance, password cracking, reverse shell, and privilege escalation techniques.</p>
-
-    <h2>📄 Resume & Portfolio</h2>
-    <p>📥 <a href="./Dhaval_Prajapati_Resume.pdf" target="_blank">Download My Resume (PDF)</a></p>
-    <p>📥 <a href="./Dhaval_Pentesting_Portfolio.pdf" target="_blank">View My Pentesting Portfolio</a></p>
 </section>
 
 <footer>
