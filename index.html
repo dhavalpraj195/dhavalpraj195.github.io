@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Dhaval Prajapati — Cybersecurity Portfolio</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <style>
+    :root{
+      --bg:#0b1220; --panel:#0f1720; --muted:#9aa4b2; --accent:#58a6ff; --glass: rgba(255,255,255,0.03);
+      --card-radius:12px; --maxw:1100px;
+    }
+    *{box-sizing:border-box}
+    body{font-family:Inter,system-ui,Segoe UI,Roboto,Arial,sans-serif;margin:0;background:linear-gradient(180deg,#05060a 0%,var(--bg) 100%);color:#e6edf3;-webkit-font-smoothing:antialiased}
+    .wrap{max-width:var(--maxw);margin:28px auto;padding:20px}
+    header.hero{position:relative;border-radius:14px;overflow:hidden;background-image:url('https://images.unsplash.com/photo-1535223289827-42f1e9919769?auto=format&fit=crop&w=1600&q=80');background-size:cover;background-position:center;height:220px;display:flex;align-items:center;justify-content:center}
+    header.hero::after{content:'';position:absolute;inset:0;background:linear-gradient(180deg,rgba(2,6,12,0.6),rgba(2,6,12,0.85));}
+    .hero-inner{position:relative;text-align:center;z-index:2;padding:18px}
+    h1.title{margin:0;font-size:2.0rem;color:var(--accent);text-shadow:0 6px 18px rgba(0,0,0,0.6)}
+    p.lead{margin:8px 0 0;color:var(--muted)}
+
+    .top-links{display:flex;gap:10px;justify-content:center;margin-top:12px}
+    .badge{display:inline-flex;align-items:center;gap:8px;background:var(--glass);padding:8px 12px;border-radius:999px;color:var(--muted);font-weight:600;font-size:0.95rem}
+    .badge i{color:var(--accent)}
+
+    main{display:grid;grid-template-columns:1fr 360px;gap:20px;margin-top:22px}
+
+    /* left column */
+    .card{background:linear-gradient(180deg,rgba(255,255,255,0.01),rgba(255,255,255,0.015));border:1px solid rgba(255,255,255,0.03);padding:18px;border-radius:var(--card-radius)}
+    h2{color:var(--accent);margin:0 0 12px}
+    .muted{color:var(--muted)}
+
+    .skills-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}
+    .skill-pill{background:rgba(255,255,255,0.02);padding:8px 10px;border-radius:8px;border:1px solid rgba(255,255,255,0.02);font-weight:600}
+
+    details{background:transparent;border-radius:8px;padding:10px;margin-bottom:10px}
+    details summary{cursor:pointer;outline:none;list-style:none;font-weight:700;color:#cfe9ff}
+    details[open] summary::after{content:" \25B2";float:right}
+    details summary::after{content:" \25BC";float:right}
+    details .content{padding-top:10px;color:var(--muted);line-height:1.45}
+
+    /* right column */
+    aside .card{position:sticky;top:24px}
+    .cert-grid{display:flex;flex-direction:column;gap:10px}
+    .cert-item{display:flex;gap:10px;align-items:center}
+    .cert-item img{width:44px;height:44px;border-radius:8px;object-fit:cover}
+
+    /* footer */
+    footer{margin-top:26px;text-align:center;color:var(--muted);font-size:0.95rem}
+
+    /* responsive */
+    @media(max-width:980px){main{grid-template-columns:1fr}aside .card{position:static}header.hero{height:200px}} 
+  </style>
+</head>
+<body>
+  <div class="wrap">
+
+    <header class="hero card">
+      <div class="hero-inner">
+        <h1 class="title"><i class="fas fa-user-shield"></i> Dhaval Prajapati</h1>
+        <p class="lead">Cybersecurity Analyst • Ethical Hacking • IT Support • Security+ | eJPT | (ISC)<sup>2</sup> CC</p>
+        <div class="top-links" style="margin-top:14px">
+          <a class="badge" href="mailto:dhavalpraj195@gmail.com"><i class="fas fa-envelope"></i> dhavalpraj195@gmail.com</a>
+          <a class="badge" href="https://www.linkedin.com/in/dhavalprajapati195" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
+          <a class="badge" href="https://github.com/imstrange195" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section>
+        <div class="card">
+          <h2>About</h2>
+          <p class="muted">Entry-level IT & Cybersecurity professional with a Postgraduate Diploma in Cybersecurity (GPA 4.0) and a Bachelor of Engineering in IT. Practical experience in penetration testing, incident response, and desktop support with certifications in <strong>CompTIA Security+</strong>, <strong>eJPT</strong>, and <strong>(ISC)<sup>2</sup> CC</strong>. I build labs, test securely, and communicate findings clearly to technical and non-technical stakeholders.</p>
+
+          <h2 style="margin-top:18px">Quick Facts</h2>
+          <ul style="margin:8px 0 0;padding-left:16px;color:var(--muted);line-height:1.6">
+            <li>• Built Windows Server 2022 AD lab with GPOs and clients</li>
+            <li>• Completed EC-Council CyberQ CTF (7 flags captured in 50 mins)</li>
+            <li>• Skilled with Metasploit, Wireshark, Nmap, Hashcat, Hydra</li>
+          </ul>
+
+          <h2 style="margin-top:18px">Featured Projects</h2>
+          <div style="display:flex;flex-direction:column;gap:8px">
+            <details>
+              <summary>Cybersecurity Home Lab</summary>
+              <div class="content">Built multi-VM lab (Kali, Windows Server, Windows 10). Practiced AD management, GPOs, Metasploit exploitation, NTLM hash extraction, and traffic analysis with Wireshark. <br><a href="#">View repo</a></div>
+            </details>
+
+            <details>
+              <summary>EC-Council CyberQ CTF</summary>
+              <div class="content">Seven-flag Linux CTF with chained flags requiring enumeration, password cracking, reverse shells and privilege escalation. Captured all flags in 50 minutes under high latency. <br><a href="#">CTF write-up</a></div>
+            </details>
+
+            <details>
+              <summary>Penetration Testing Labs</summary>
+              <div class="content">Metasploitable exploitation, NTLM hash cracking with Hashcat, and simulated post-exploitation. Focused on clear remediation guidance for each finding. <br><a href="#">Pentest portfolio</a></div>
+            </details>
+          </div>
+
+        </div>
+
+        <div style="height:18px"></div>
+
+        <div class="card">
+          <h2>Skills</h2>
+          <div class="skills-grid" style="margin-top:10px">
+            <div class="skill-pill">Penetration Testing</div>
+            <div class="skill-pill">TCP/IP & Networking</div>
+            <div class="skill-pill">Windows Server / AD</div>
+            <div class="skill-pill">Python / Bash</div>
+            <div class="skill-pill">Wireshark / Nmap</div>
+            <div class="skill-pill">GPO / Group Policy</div>
+          </div>
+
+          <h2 style="margin-top:18px">Education</h2>
+          <p class="muted"><strong>Postgraduate Diploma — Cybersecurity</strong><br>Sault College, Toronto (2024) • GPA: 4.0/4.0</p>
+          <p class="muted"><strong>Bachelor of Engineering — IT</strong><br>Gujarat Technological University (2020) • CGPA: 8.18/10</p>
+
+        </div>
+
+      </section>
+
+      <aside>
+        <div class="card">
+          <h2>Certifications</h2>
+          <div class="cert-grid">
+            <div class="cert-item"><img src="https://assets.credly.com/images/compTIA_SecurityPlus.png" alt="Security+"/><div><strong>CompTIA Security+ (May 2025)</strong><div class="muted">SY0-701</div></div></div>
+            <div class="cert-item"><img src="https://certs.ine.com/static/ine/images/logo.png" alt="eJPT"/><div><strong>eJPT (Mar 2024)</strong><div class="muted">INE / eLearnSecurity</div></div></div>
+            <div class="cert-item"><img src="https://images.credly.com/isc2.png" alt="ISC2"/><div><strong>(ISC)² CC (Jan 2024)</strong><div class="muted">Foundational</div></div></div>
+          </div>
+
+          <h2 style="margin-top:14px">Coursework</h2>
+          <details>
+            <summary>View Coursework (PG Diploma)</summary>
+            <div class="content">
+              <ul style="padding-left:16px;color:var(--muted)">
+                <li><strong>Sem 1:</strong> Computer & Networking Fundamentals, Windows 10 Admin & PowerShell, Windows Server & AD, Project Management, Professional Communication</li>
+                <li><strong>Sem 2:</strong> Network+, Linux Admin, IT Security Ethics (Canada), Cisco CCNA</li>
+                <li><strong>Sem 3:</strong> Python Programming, Security Defense & Response, Ethical Hacking (Pentest+), IT Forensics, Career Prep</li>
+                <li><strong>Sem 4:</strong> Internship — Wuji-Xuan Life Wellness</li>
+              </ul>
+            </div>
+          </details>
+
+          <h2 style="margin-top:14px">Volunteer</h2>
+          <p class="muted">Cybersecurity Awareness Workshop Facilitator (Sault College) — Oct 2023<br>Talent Hub mentorship & events</p>
+
+          <h2 style="margin-top:14px">Contact</h2>
+          <p class="muted">Toronto, ON<br><a href="mailto:dhavalpraj195@gmail.com">dhavalpraj195@gmail.com</a><br>(905) 781-9152</p>
+
+          <p style="margin-top:12px"><a class="badge" href="/Dhaval_Prajapati_Master_Resume.docx" download><i class="fas fa-file-download"></i> Download Resume</a></p>
+        </div>
+      </aside>
+
+    </main>
+
+    <footer>
+      <small>© 2025 Dhaval Prajapati • Built with practical lab work & certifications</small>
+    </footer>
+
+  </div>
+</body>
+</html>
