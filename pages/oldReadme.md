@@ -6,11 +6,11 @@
 |  [Home 🏠](#profile)  |  [About ℹ️](#professional-summary)  |  [Technical Skills  💻](#technical-skills)  |  [Certifications 📜](#certifications)  |  [Work Experience 💼](#work-experience)  |  [Education 🎓](#education)  |  [Contact 📞📧](#contact)  |
 
 
-**Check out my Resume: [Resume page](?page=resume-page)** ![openlink](assets/user/openlink.svg)
+**Check out my Resume: [Resume page](?page=resume-page)** ![openlink](assets/images/openlink.svg)
 
-**Check out my College grades: [Grade page](?page=grades-page)** ![openlink](assets/user/openlink.svg)
+**Check out my College grades: [Grade page](?page=grades-page)** ![openlink](assets/images/openlink.svg)
 
-**Check out Some Photos: [Photos](?page=photos-page)** ![openlink](assets/user/openlink.svg)
+**Check out Some Photos: [Photos](?page=photos-page)** ![openlink](assets/images/openlink.svg)
 ***
 # Professional Summary
 Entry‑level IT & cybersecurity professional with a Postgraduate Diploma in Cybersecurity (4.0 GPA) and a BE in Information Technology. Certified in CompTIA Security+, eJPT, (ISC)² CC, and Google IT Support. I combine solid desktop‑support experience and strong customer‑service skills with hands‑on security work—building and hardening environments, hunting threats, and responding to simulated incidents.
@@ -21,11 +21,11 @@ Entry‑level IT & cybersecurity professional with a Postgraduate Diploma in Cyb
 
 [![Dhaval's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhavalpraj195&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentages&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-**👨‍💻 All of my projects are available at  ![GitHub logo](assets/user/github.png)  [Dhaval@GitHub](https://github.com/imstrange195)**
+**👨‍💻 All of my projects are available at  ![GitHub logo](assets/images/github.png)  [Dhaval@GitHub](https://github.com/imstrange195)**
 
-**📄 Know about my experiences  ![LinkedIn Logo](assets/user/linkedin.png)  [Dhaval Prajapati LinkedIn Profile](https://www.linkedin.com/in/dhavalprajapati195/)**
+**📄 Know about my experiences  ![LinkedIn Logo](assets/images/linkedin.png)  [Dhaval Prajapati LinkedIn Profile](https://www.linkedin.com/in/dhavalprajapati195/)**
 
-**📫 How to reach me?  ![Gmail logo](assets/user/gmail.svg) : dhavalprajapati4599@gmail.com**
+**📫 How to reach me?  ![Gmail logo](assets/images/gmail.svg) : dhavalprajapati4599@gmail.com**
 ***
 # Technical Skills
   
@@ -39,7 +39,7 @@ Entry‑level IT & cybersecurity professional with a Postgraduate Diploma in Cyb
 ***
 # Certifications
 
-**[1. CompTIA Security+ - Dhaval Prajapati](https://www.credly.com/badges/4f091209-4b9e-4e92-a50d-871351c40195) ![CompTIA-Security+](assets/user/securityplus.png)**
+**[1. CompTIA Security+ - Dhaval Prajapati](https://www.credly.com/badges/4f091209-4b9e-4e92-a50d-871351c40195) ![CompTIA-Security+](assets/images/securityplus.png)**
 
 _Entry-Level Cybersecurity Certification_
 CompTIA Security+ is the premier global certification that establishes the essential skills required for core security functions and a career in IT security. 
@@ -67,7 +67,7 @@ It showcases professionals' capabilities in securing networks, applications, and
 | Network Security | Security Awareness | Security Configuration |Security Management | Security Policies |
 | Threat Detection | Threat Management |
 
-**[2. INE- eJPT Junior Penetration Tester - Dhaval Prajapati](https://certs.ine.com/8d4d5886-b17f-4da7-aa74-bbdb1b8a3612#acc.EPGxVa7e) ![INE-eJPT](assets/user/eJPT_logo.png)**
+**[2. INE- eJPT Junior Penetration Tester - Dhaval Prajapati](https://certs.ine.com/8d4d5886-b17f-4da7-aa74-bbdb1b8a3612#acc.EPGxVa7e) ![INE-eJPT](assets/images/eJPT_logo.png)**
 
 The Junior Penetration Tester (eJPT) is a thoughtfully crafted certification designed to test you on every phase of the penetration life cycle from assessment methodologies, to host and network auditing, host and network penetration testing, and web application penetration testing. 
 This browser-based, hands-on, exam mirrors real world junior penetration tasks using a methodological approach. Not only does our exam environment feature modern infrastructure, operating systems, and current versions of software, but it also uses innovative technology to make each user’s testing experience unique.
@@ -78,7 +78,7 @@ This browser-based, hands-on, exam mirrors real world junior penetration tasks u
 3. Host & Networking Penetration Testing
 4. Host & Networking Auditing
 
-**[3. (ISC)2 Certified in Cybersecurity - Dhaval Prajapati](https://www.credly.com/badges/b0958515-72a0-4ca7-80dc-022be1a011bb) ![ISC2CC](assets/user/isc2cc.png)**
+**[3. (ISC)2 Certified in Cybersecurity - Dhaval Prajapati](https://www.credly.com/badges/b0958515-72a0-4ca7-80dc-022be1a011bb) ![ISC2CC](assets/images/isc2cc.png)**
 
 _Entry-Level Cybersecurity Certification_
 Proves you have the foundational knowledge, skills and abilities for an entry- or junior-level cybersecurity role.
@@ -89,7 +89,7 @@ Proves you have the foundational knowledge, skills and abilities for an entry- o
 4. Network Security
 5. Security Operations
 
-**[4. Google IT Support Professional Certificate](https://www.credly.com/badges/40f2f628-4446-4526-a51d-285ac23f7ae2) ![ITSupport](assets/user/itsupport.png)**
+**[4. Google IT Support Professional Certificate](https://www.credly.com/badges/40f2f628-4446-4526-a51d-285ac23f7ae2) ![ITSupport](assets/images/itsupport.png)**
 
 This certificate is equivalent to **CompTIA A+** certificate.
 Goals covered by the course:
@@ -109,7 +109,7 @@ Goals covered by the course:
 ***
 # Education
 
-* [**🎓 Postgraduate Diploma, Cybersecurity**](?page=grades-page) ![openlink](assets/user/openlink.svg), 
+* [**🎓 Postgraduate Diploma, Cybersecurity**](?page=grades-page) ![openlink](assets/images/openlink.svg), 
 _Sault College of Applied Arts & Technology_, 
 
 * **🎓 Bachelor of Engineering, Information Technology**,
